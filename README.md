@@ -1,2 +1,2 @@
-# microeconomia1
-Conteúdo referente à disciplina de microeconomia 1 para graduação.
+# Teoria Microeconômica I
+Conteúdo referente à disciplina de Teoria Microeconômica I para graduação.
