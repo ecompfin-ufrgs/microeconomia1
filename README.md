@@ -10,6 +10,7 @@ Em particular, o conteúdo programático está mostrado a seguir:
 1. [Sistemas Econômicos](https://github.com/ecompfin-ufrgs/microeconomia1/blob/main/SistEcon.pdf)
 2. [Noções de metafísica](No__es_de_Metaf_sica_da_Ci_ncia_e_Epistemologia.pdf)
 3. [Metodologia da ciência](MetodoCienciaEmpirica.pdf)
+4. Abordagens heterodoxas ao estudo dos mercados - ler Moudud, Bina e Mason (2014, pp. 1-12)
 
 **Unidade II - Revisão de matemática**
 1. Álgebra linear no Rn
