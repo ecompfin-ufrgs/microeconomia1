@@ -6,3 +6,8 @@ O plano de ensino desta disciplina tal como lecionada no Bacharelado em Ciência
 Em particular, o conteúdo programático está mostrado a seguir:
 
 1. [Sistemas Econômicos](https://github.com/ecompfin-ufrgs/microeconomia1/blob/main/SistEcon.pdf)
+2. [Noções de metafísica]()
+3. [Metodologia da ciência]()
+4. Revisão de matemática - álgebra linear no Rn, funções reais multivariadas, cálculo multivariado, otimização no Rn e probabilidade
+5. 
+6. 
